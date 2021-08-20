@@ -1,4 +1,4 @@
-# UWOLRD-Dumper
+# Fortnite Uworld-Dumper
 
 How to Use Video :
 
@@ -10,4 +10,4 @@ Open Fortnite
 Run ZebFag.exe
 Wait to drivers load
 When it says drivers loaded click F2 to Inject dll
-Then a Console gonna popup with the latest UWOLRD!
+Then a Console gonna popup with the latest Uworld!
