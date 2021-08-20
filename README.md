@@ -1,4 +1,4 @@
 # UWOLRD-Dumper
 
 
-[![How to use Video here enjoy!](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/F_g3RbIbrVc)
+[![Watch the video](https://imgur.com/a/6KOQ2S1)](https://youtu.be/F_g3RbIbrVc)
