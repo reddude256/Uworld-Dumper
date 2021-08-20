@@ -6,7 +6,7 @@
 
 # Discord Server!
 
-- [Join](https://discord.gg/mS9Jzg8SRT)
+- [Join Server](https://discord.gg/mS9Jzg8SRT)
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://streamable.com/3xhmh3)
 
